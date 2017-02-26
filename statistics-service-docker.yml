@@ -6,4 +6,4 @@ management:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://discovery:8761/eureka/
+      defaultZone: http://discovery-server:8761/eureka/
